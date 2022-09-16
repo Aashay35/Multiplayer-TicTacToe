@@ -11,7 +11,7 @@ A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web &
 - Cross Platform Game
 
 
-Screenshot (109).png
+
 ```
 
 ## Tech Used
